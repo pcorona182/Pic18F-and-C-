@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leer-USB-Custom", "Leer-USB-Custom\Leer-USB-Custom.csproj", "{440E4D79-45EF-40E0-8E16-C5544123DF85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{440E4D79-45EF-40E0-8E16-C5544123DF85}.Debug|x86.ActiveCfg = Debug|x86
+		{440E4D79-45EF-40E0-8E16-C5544123DF85}.Debug|x86.Build.0 = Debug|x86
+		{440E4D79-45EF-40E0-8E16-C5544123DF85}.Release|x86.ActiveCfg = Release|x86
+		{440E4D79-45EF-40E0-8E16-C5544123DF85}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Leer-USB-Custom\Leer-USB-Custom.csproj
+	EndGlobalSection
+EndGlobal
