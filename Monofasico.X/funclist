@@ -1,0 +1,17 @@
+_CDCTxService: CODE, 2242 0 232
+_USBTransferOnePacket: CODE, 2796 0 112
+_USBDeviceAttach: CODE, 3124 0 42
+_ADCInit: CODE, 3354 0 14
+_UserInit: CODE, 3376 0 6
+_memset: CODE, 3080 0 44
+_putsUSBUSART: CODE, 3018 0 62
+_main: CODE, 3166 0 74
+_T0Init: CODE, 3272 0 28
+_EI0Init: CODE, 3368 0 8
+_T1Init: CODE, 3300 0 28
+_InitializeSystem: CODE, 3240 0 32
+_Delay10KTCYx: CODE, 3328 0 26
+_ProcessIO: CODE, 2908 0 110
+_USBDeviceInit: CODE, 2474 0 190
+_getsUSBUSART: CODE, 2664 0 132
+Total: 1140
